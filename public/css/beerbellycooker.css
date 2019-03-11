@@ -1,0 +1,87 @@
+body{
+   background-color: #33313B;; /*#33313B;*/
+   color: aliceblue;
+}
+h2{
+    font-family: 'Rye', cursive;
+    font-size: 3.5rem;
+    text-align: center;
+}
+h3{
+
+    font-family: 'Rye', cursive;
+    font-size: 2.5rem;
+    text-align: center;
+}
+p{
+    font-family: 'Lato', sans-serif;
+}
+/* nav bar menu */
+.navbar{
+    padding: 0 0 0;
+color: white;
+}
+.navbar-brand{
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.nav-item{
+    padding: 0 18px;
+}
+.nav-link{
+    font-size: 1.2rem;
+    font-family: 'Times New Roman';
+}
+
+/* our story section  */
+.Our-Story{
+    background-color: #a3816a;
+    text-align: center;
+    padding: 50px 0 50px 0;
+
+}
+
+/* end of the story events */
+
+/* team section */
+#team{
+    background-color: #283148;
+    padding: 50px 0 50px 0;
+}
+#team-heading{
+padding: 20px;
+}
+#Aarron-pic{
+
+    height: 300px;
+    width: 300px;
+
+}
+
+/* evnts section */
+.Events{
+    text-align: center;
+    background-color: #a3816A;
+    color: aliceblue;
+    padding: 50px 0 50px 0;
+
+}
+
+/* pic section */
+.pictures-sec{
+    background-color: #E8E2DB;
+    padding: 50px 0 50px 0;
+}
+
+/* footer section */
+footer{
+    text-align: center;
+}
+
+.instagram{
+    cursor: pointer;
+    color: white
+}
+a:hover{
+    color: bisque;
+}
